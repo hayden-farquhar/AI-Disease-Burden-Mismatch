@@ -2,7 +2,7 @@
 
 Replication code and data for:
 
-> Farquhar, H. (2026). Medical artificial intelligence research is misaligned with global disease burden: a bibliometric analysis of 197,844 publications. *Scientometrics* [submitted].
+> Farquhar, H. (2026). Medical artificial intelligence research is misaligned with global disease burden: a bibliometric analysis of 197,844 publications.
 
 ## Overview
 
@@ -92,9 +92,7 @@ If you use this code, please cite:
 @article{farquhar2026mismatch,
   title={Medical artificial intelligence research is misaligned with global disease burden: a bibliometric analysis of 197,844 publications},
   author={Farquhar, Hayden},
-  journal={Scientometrics},
-  year={2026},
-  note={Submitted}
+  year={2026}
 }
 ```
 
